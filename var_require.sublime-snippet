@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+var ${1:package} = require('${1:package}');${0}
+]]></content>
+    <tabTrigger>vreq</tabTrigger>
+    <scope>source.js</scope>
+    <description>require</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[var ${2:elements} = document.querySelectorAll('${1:selector}');
+[].forEach.call(${2:elements}, function(${3:element}, ${4:i}) {
+  ${0}
+});]]></content>
+    <tabTrigger>qsa</tabTrigger>
+    <scope>source.js</scope>
+    <description>querySelectorAll</description>
+</snippet>
