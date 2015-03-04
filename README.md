@@ -12,7 +12,7 @@ Sublime Text JavaScript Snippets
 - Clone this repo
 
   ```
-  git clone git@github.com:gonsfx/sublime-js-snippets.git
+  git clone git@github.com:gonsfx/sublime-setup.git
   ```
 
 - Setup settings and keybindings
