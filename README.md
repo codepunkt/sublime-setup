@@ -18,6 +18,6 @@ Sublime Text JavaScript Snippets
 - Setup settings and keybindings
 
   ```
-  chmod 755 sublime-settings/setup.sh
-  ./sublime-settings/setup.sh
+  chmod 755 sublime-setup/setup.sh
+  ./sublime-setup/setup.sh
   ```
