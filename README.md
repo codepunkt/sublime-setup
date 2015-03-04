@@ -12,12 +12,11 @@ Sublime Text JavaScript Snippets
 - Clone this repo
 
   ```
-  git clone git@github.com:gonsfx/sublime-setup.git
+  git clone git@github.com:gonsfx/sublime-setup.git && cd sublime-setup
   ```
 
 - Setup settings and keybindings
 
   ```
-  chmod 755 sublime-setup/setup.sh
-  ./sublime-setup/setup.sh
+  chmod 755 setup.sh && ./setup.sh
   ```
