@@ -14,3 +14,10 @@ Sublime Text JavaScript Snippets
   ```
   git clone git@github.com:gonsfx/sublime-js-snippets.git
   ```
+
+- Setup settings and keybindings
+
+  ```
+  chmod 755 sublime-settings/setup.sh
+  ./sublime-settings/setup.sh
+  ```
