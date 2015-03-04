@@ -9,7 +9,7 @@ Sublime Text JavaScript Snippets
   - **Linux**: ~/.config/sublime-text-3/packages
   - **Windows**: %APPDATA%\Sublime Text 3\Packages
 
-- Clone this repo into it
+- Clone this repo
 
   ```
   git clone git@github.com:gonsfx/sublime-js-snippets.git
