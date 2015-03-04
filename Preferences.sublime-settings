@@ -1,0 +1,54 @@
+{
+	"always_show_minimap_viewport": false,
+	"animation_enabled": false,
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"create_window_at_startup": false,
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"drag_text": false,
+	"draw_centered": false,
+	"draw_minimap_border": true,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"fallback_encoding": "UTF-8",
+	"flatland_sidebar_tree_medium": true,
+	"flatland_square_tabs": false,
+	"fold_buttons": true,
+	"font_face": "Droid Sans Mono",
+	"font_options":
+	[
+		"no_bold"
+	],
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeLinter"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 4,
+	"match_selection": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
+	"binary_file_patterns": [
+		"node_modules/**/*.*",
+		"node_modules/**/*"
+	],
+	"scroll_past_end": false,
+	"scroll_speed": 0.5,
+	"show_encoding": true,
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}
