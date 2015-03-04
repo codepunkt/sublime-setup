@@ -5,10 +5,9 @@ Sublime Text JavaScript Snippets
 
 - Navigate to your sublime text packages folder
 
-  - **OS X**: ~/Library/Application Support/Sublime Text 2
-  - **Linux**: ~/.Sublime Text 2
-  - **Windows**: %APPDATA%\Sublime Text 2
-  - **Portable Installation**: Sublime Text 2/Data
+  - **OS X**: ~/Library/Application Support/Sublime Text 3/Packages
+  - **Linux**: ~/.config/sublime-text-3/packages
+  - **Windows**: %APPDATA%\Sublime Text 3\Packages
 
 - Clone this repo into it
 
